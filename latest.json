@@ -1,11 +1,11 @@
 {
-  "version": "0.2.8",
-  "notes": "## Shipments App v0.2.8\n\nReleased on September 28, 2026.",
-  "pub_date": "2026-09-28T06:09:57.105Z",
+  "version": "0.2.9",
+  "notes": "## Shipments App v0.2.9\n\nReleased on October 12, 2026.",
+  "pub_date": "2026-10-12T18:27:31.772Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbkxtUnJVbFM5aUR5WGJRclMvc243ei9SMGxhNUt2WjIzYUhrZXJkSngxK2I3S1VXR015MzhJK2JzdjRBTmRaUUZHYVU4WTJDeXZQRHlybkNhSERQSmxoanV0SkI3R0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTc1Nzc1CWZpbGU6U2hpcG1lbnRzIEFwcF8wLjIuOF94NjQtc2V0dXAuZXhlCkovRHErYmN4Mys1dEQ0MHBRcGQvbDgwUUxxSi9tYVp0cXlIM3ppelpJK1FpSkNCd041YkFqNWUrWkU4YnVLaUtWTXROd050OTMydk5icWQ4RVZmU0FRPT0K",
-      "url": "https://github.com/muhammed-shetaya/shipments-app-v5-public-releases/releases/download/v0.2.8/Shipments.App_0.2.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbkxtUnJVbFM5aUpMRGJlb0RydDM1Wjd3ODVPVkpqQUtueERNVmd3S3F4ZVRFMDdQRjJ3MytHak5MeUMyVGRhQVR5RHVuaTRIaXVYejhGVmlkVWJ2YnV2ZW0wVVZ3S0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODI5NjMzCWZpbGU6U2hpcG1lbnRzIEFwcF8wLjIuOV94NjQtc2V0dXAuZXhlCmZXYTNtMVJORW1RTTdlOWZaN0NWaE5keG9GQ0x4RkhIdkFpaTVxTHJqMjgva0FnbWgxV0NHYklQbG5wMmJBSVYvcFRnbVhkRE1IWUdZclEzWFMwWENBPT0K",
+      "url": "https://github.com/muhammed-shetaya/shipments-app-v5-public-releases/releases/download/v0.2.9/Shipments.App_0.2.9_x64-setup.exe"
     }
   }
 }
